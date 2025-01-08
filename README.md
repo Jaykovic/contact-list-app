@@ -15,3 +15,6 @@ Steps to Run the App
 
 The react-native-vector-icons was used for the delete icon
     to install, expo install react-native-vector-icons or npm install react-native-vector-icons
+
+![WhatsApp Image 2025-01-08 at 10 32 25_8a55ae4f](https://github.com/user-attachments/assets/7e0c770a-30dc-499b-8925-64f5b974a560)
+
